@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahmad Ismail 
+- 👀 I’m interested in Video Games & Programming. 
+- 🌱 I’m currently learning Java & Python.
+- 💞️ I’m looking to collaborate to Build an MMORPG Game.
+- 📫 How to reach me @ahmadoqsrawi { Instagram + Snapchat }
